@@ -27,6 +27,9 @@ Comandos:
     git push -u origin main
     //sobe o repositório para a nuvem
 
+    git checkout -b "novo branch"
+    //cria uma nova ramificação
+
 
 Chave de acesso SSH:
 
