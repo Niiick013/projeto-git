@@ -10,7 +10,8 @@ Comandos:
     git init
 
 
-    git add
+    git add .
+    //adiciona todos os arquivos disponíveis ou que sofreram alterações
 
     git status
 
