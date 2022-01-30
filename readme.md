@@ -34,5 +34,7 @@ Chave de acesso SSH:
 
     em seguida, adicione a sua conta GitHub através das configurações
 
-    e para finalizar, gere uma chave de autentificação para usar como senha
+    gere uma chave de autentificação para usar como senha
     nos "git push's" que fizer
+
+    e para finalizar, salve a chave de autenticação em um arquivo txt
