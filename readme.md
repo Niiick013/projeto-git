@@ -29,4 +29,9 @@ Comandos:
 
 Chave de acesso SSH:
 
-    
+    crie uma chave ssh de acordo com as instruções do GitHub
+
+    em seguida, adicione a sua conta GitHub através das configurações
+
+    e para finalizar, gere uma chave de autentificação para usar como senha
+    nos "git push's" que fizer
