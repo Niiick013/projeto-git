@@ -1,4 +1,6 @@
 Olá, esse projeto ensina você usar o Git!
+Você também pode utilizar o GUI Clients para visualizar os repositórios
+de forma mais organizada e dinâmica.
 
 Comandos:
 
